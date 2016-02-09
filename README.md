@@ -1,4 +1,4 @@
-<b stype='red'>Hello all, Happy new year. We're sorry for bad network in hometown. we'll fix it (dolphin) after 10 to 15 days. Hope you understand ! </b>
+<b style='red'>Hello all, Happy new year. We're sorry for bad network in hometown. we'll fix them (dolphin & ecross) after 10 to 15 days. Hope you understand ! </b>
 # glbproxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
