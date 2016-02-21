@@ -1,5 +1,5 @@
-<b style='red'>Hello all, Happy new year. We're sorry for bad network in hometown. we'll fix them (dolphin & ecross) after 10 to 15 days. Hope you understand !
-<br>备注：每天上午9-10点进行修复，可能会影响部分用户使用。系统升级完成后，服务会长时间处于可用状态，邮件未及时回复请谅解，我们为能提供稳定的服务努力！ </b>
+<b style='red'>已对所有Plugin VIP用户发放近期不稳定补偿 - 10天VIP，希望理解。
+<br>备注：每天上午会进行修复，可能会影响部分用户使用。系统升级完成后，服务会长时间处于可用状态，邮件未及时回复请谅解，我们为能提供稳定的服务努力！ </b>
 # glbproxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
