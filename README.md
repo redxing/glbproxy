@@ -1,4 +1,4 @@
-<b> 新春9折活动结束 （截止2016-3-2）</b>
+<b> 穿越已完成超速模式(SS)升级，所有用户将自动适应。请每天睡觉前关闭浏览器，保证您的账号对服务器分配及时更新。</b>
 <br>备注：服务器升级中，每天7:00-7:35检查修复，尽量在检修后才打开或重启浏览器使用。邮件未及时回复请谅解，我们为能提供稳定的服务努力！ </b>
 # glbproxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
