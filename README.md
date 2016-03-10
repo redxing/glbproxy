@@ -3,7 +3,7 @@
 # glbproxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.1.51, Ecross V2.2.70, Android V1.0.1
+Latest version Dolphin V2.1.51, Ecross V2.2.71, Android V1.0.1
 
 For Worldwide: http://glbproxy.com/?r=1 <br>
 For China <b>(海豚 2.1.51)</b>: https://do1.glbproxy.tk/html/ec/index.html<br>
