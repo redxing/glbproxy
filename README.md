@@ -1,4 +1,4 @@
-<b>Hello,All.我们对新加坡节点进行了优化，快去感受一下吧。</b>
+<b>Hello,All.新加坡节点负载过大，我们会在接下来时间增加该节点的服务器数量。</b>
 <br>备注：每天6:00-7:35检查修复，尽量在检修后才打开或重启浏览器使用。邮件未及时回复请谅解，我们为能提供稳定的服务努力！ </b>
 # glbproxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
