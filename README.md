@@ -9,7 +9,7 @@ For Worldwide: http://glbproxy.com/?r=1 <br>
 For China <b>(海豚 2.1.51)</b>: https://do1.glbproxy.tk/html/ec/index.html<br>
 For China <b>(穿越 2.2.71)</b>: https://do2.glbproxy.tk/?r=1&name=admin@glbpx.com<br>
 For China <b>(Anyconnect VPN for IOS)</b>https://hiali.xyz/web/ <br> 
-(备注：Anyconnect VPN单独计费，VPN可用于IOS,PC,Android，智能过滤90%国内列表，下载对应Anyconnect客户端安装即可畅游)
+(备注：Anyconnect VPN单独计费，可用安卓账号登陆，VPN可用于IOS,PC,Android，智能过滤90%国内列表，下载对应Anyconnect客户端安装即可畅游)
 
 Dolphin 1.0.2 for <b>Android</b> client: https://android.glbproxy.tk<br>
 
