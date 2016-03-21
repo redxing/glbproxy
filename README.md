@@ -3,11 +3,11 @@
 # glbproxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.1.51, Ecross V2.2.71, Android V1.0.1
+Latest version Dolphin V2.1.51, Ecross V2.2.71, Android V1.0.1, Anyconnect 0.0.1 for IOS
 
 For Worldwide: http://glbproxy.com/?r=1 <br>
 For China <b>(海豚 2.1.51)</b>: https://do1.glbproxy.tk/html/ec/index.html<br>
 For China <b>(穿越 2.2.71)</b>: https://do2.glbproxy.tk/?r=1&name=admin@glbpx.com<br>
-Dolphin 1.0.2 for <b>Android</b> client: https://android.glbproxy.tk
-
+Dolphin 1.0.2 for <b>Android</b> client: https://android.glbproxy.tk<br>
+For China <b>Anyconnect VPN IOS有福了</>hiali.xyz/web/ (单独计费，VPN可用于IOS,PC,Android，下载对应Anyconnect客户端即可)
 All the URLs are dynamic.
