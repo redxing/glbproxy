@@ -3,7 +3,7 @@
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.1.52, Ecross V2.2.72, Android V1.0.2, Anyconnect 0.0.1 for IOS
+Latest version Dolphin V2.2.0, Ecross V2.3.0, Android V1.0.2, Anyconnect 0.0.1 for IOS
 
 For Worldwide: http://glbproxy.com/?r=1 <br>
 For China <b>(海豚)</b>: https://do1.glbproxy.tk/html/ec/index.html<br>
