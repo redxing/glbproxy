@@ -1,4 +1,4 @@
-<b>Hello,All.Hong Kong node fixed.</b>
+<b>Hello,更新最新升级版本dolphin 2.2.0和ecross 2.3.0。</b>
 <br>节点描述：系统默认香港节点 点击插件图标可以进行切换【美国，日本，新加坡】 </b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
