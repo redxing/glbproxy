@@ -3,5 +3,5 @@
 "api":"\u0064\u006f\u0032\u002e\u0069\u0063\u0065\u0063\u006c\u0061\u0079\u002e\u0063\u006f\u006d",
 "ws":"\u0064\u006f\u0061\u002e\u0069\u0063\u0065\u0063\u006c\u0061\u0079\u002e\u0063\u006f\u006d",
 "ver":["2.1.51","2.1.52","2.2.0","2.2.1"],
-"notice":"https://github.com/ayooay/glbproxy2"
+"notice":"https://github.com/ayooay/glbproxy"
 }
