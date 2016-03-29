@@ -1,11 +1,10 @@
 # Notice
-<b>Hello,更新最新升级版本dolphin 2.2.0和ecross 2.3.1。  请勿在穿越2.3.0这个版本进行支付。</b><br>
-<b>海豚畅游，美国A节点优化，走电信骨干CN2网络，更快速度，高清无压力，尽在2.2.0</b>
+<b>最新版本dolphin 2.2.1 和 ecross 2.3.2</b><br>
 <br>节点描述：系统默认香港节点 点击插件图标可以进行切换【美国，日本，新加坡】 </b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.2.0, Ecross V2.3.1, Android V1.0.2, Anyconnect 0.0.1 for IOS
+Latest version Dolphin V2.2.1, Ecross V2.3.2, Android V1.0.2, Anyconnect 0.0.1 for IOS
 
 For Worldwide: http://glbproxy.com/?r=1 <br>
 For China <b>(海豚)</b>: https://do1.glbproxy.tk/html/ec/index.html<br>
