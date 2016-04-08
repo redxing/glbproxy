@@ -1,6 +1,6 @@
 # Notice
-<b>最新版本dolphin 2.2.2 和 ecross 2.3.3</b><br>
-<br>节点描述：系统默认线路美国CN2 点击插件图标可以进行切换【香港，日本，新加坡】，官方依次推荐：美国，日本，新加坡，香港 </b>
+<b>最新版本dolphin 2.2.2 和 ecross 2.3.3  暂时取消香港，新加坡，新增韩国。原因是机房绕道，却不能影响大家的体验。</b><br> 
+<br>节点描述：系统默认线路美国CN2 点击插件图标可以进行切换【韩国，日本】，官方依次推荐：美国，日本，韩国 </b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
