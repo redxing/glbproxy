@@ -1,5 +1,5 @@
 # Notice
-<b>最新版本dolphin 2.2.3 和 ecross 2.3.4  除韩国节点，其它节点都开放超速模式</b><br> 
+<b>2016-4-11更新最新版本dolphin 2.2.3 和 ecross 2.3.4  除韩国节点，其它节点都开放超速模式</b><br> 
 <br>节点描述：系统默认线路美国CN2 点击插件图标可以进行切换【韩国，日本】，官方依次推荐：美国，日本，韩国 </b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
