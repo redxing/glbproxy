@@ -1,9 +1,10 @@
 # Notice
 Hi All,<br>
-Chrome用户注意，IOS Anyconnect美国CN2节点（其它节点仅IOS VIP）面向所有用户开放，新续费用户立即自动开通同步。老用户请发邮件给客服，说明要开通的账号。
+You can test our server speed now.<br>
+http://v.glbproxy.com/v/speed_test.html
 
 <b>2016-4-11更新最新版本dolphin 2.2.3 和 ecross 2.3.4  除韩国节点，其它节点都开放超速模式</b><br> 
-<br>节点描述：系统默认线路美国CN2 点击插件图标可以进行切换【韩国，日本】，官方依次推荐：美国，日本，韩国 </b>
+<br>节点描述：系统默认线路美国-稳定 点击插件图标可以进行切换【韩国，日本】，官方依次推荐：美国-稳定，日本-高速，韩国... </b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
