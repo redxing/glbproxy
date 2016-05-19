@@ -3,8 +3,8 @@ Hi All,<br>
 You can test our server speed now.<br>
 http://v.glbproxy.com/v/speed_test.html
 
-<b>2016-4-11更新最新版本dolphin 2.2.3 和 ecross 2.3.4  除韩国节点，其它节点都开放超速模式</b><br> 
-<br>节点描述：系统默认线路美国-稳定 点击插件图标可以进行切换【韩国，日本】，官方依次推荐：美国-稳定，日本-高速，韩国... </b>
+<b>2016-5-20 服务器Ping值偏高，不知何时恢复，若无法登陆，切换节点等，请在登陆界面尝试自助修复。</b><br> 
+<br>节点描述：系统默认线路日本-高速 点击插件图标可以进行切换【韩国，日本，美国】，官方依次推荐：美国-稳定，日本-高速，韩国... </b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
