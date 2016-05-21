@@ -3,8 +3,8 @@ Hi All,<br>
 You can test our server speed now.<br>
 http://v.glbproxy.com/v/speed_test.html
 
-Chrome 插件DNS污染（5月20号），用户免更新，自助修复地址，请发送邮件给客服获取。<br>
-使用方法：退出登陆后，在登陆的下方点击-》自助修复-》自助修复页面输入给您的地址-》尝试修复。
+<b>Chrome 插件DNS污染（5月20号），用户免更新，自助修复地址，请发送邮件给客服获取。<br>
+使用方法：退出登陆后，在登陆的下方点击-》自助修复-》自助修复页面输入给您的地址-》尝试修复。</b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
