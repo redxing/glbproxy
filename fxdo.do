@@ -1,0 +1,1 @@
+"{\"api\":\"dob.iceclay.com\",\"ws\":\"dob.iceclay.com\",\"ssl\":\"yes\",\"pay\":\"pay.hidolphin.cn\",\"ver\":[\"2.2.1\",\"2.2.2\",\"2.2.3\",\"2.2.4\"],\"notice\":\"https://github.com/ayooay/glbproxy\"}"
