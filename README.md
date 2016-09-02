@@ -1,14 +1,17 @@
 # Notice
-Hi All,<br>
-You can test our server speed now.<br>
-http://v.glbproxy.com/v/speed_test.html
+Hi Chrome Users,<br>
+DNS污染中9月1日-，修复邮件目前不可用，G20峰会期间将不再对插件强行维护，峰会结束后，给予全部用户5天补偿。以下是抗污染的DNS服务器分享，可以试试！
+<br>
+115.159.157.26<br>
+115.159.158.38<br>
+182.254.158.191<br>
 
 <b>Chrome 插件DNS污染（5月20号），用户免更新，自助修复地址，请发送邮件给客服获取。<br>
 使用方法：退出登陆后，在登陆的下方点击-》自助修复-》自助修复页面输入给您的地址-》尝试修复。</b>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.2.4, Ecross V2.3.4, Android V2.1.0, Anyconnect 0.0.1 for IOS
+Latest version Dolphin V2.2.4, Ecross V2.3.4, Android V3.0.0, Youss.vip Vpn for Mobile.
 
 For Worldwide: http://glbproxy.tk/?r=1 <br>
 For China <b>(插件下载)</b>: https://do1.glbproxy.tk<br>
