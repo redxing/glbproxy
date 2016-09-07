@@ -14,6 +14,6 @@ For Worldwide: http://glbproxy.tk/?r=1 <br>
 For China <b>(插件下载)</b>: https://do1.glbproxy.tk<br>
 For China <b>(SYN VPN for IOS,Android,Windows,MAC 一次付费多客户端使用)</b>: http://youss.vip <br> 
 
-Dolphin 4.0.0 for <b>Android最新版本，1.解决了偶尔掉线问题 2.优化了对DNS污染来临时，自助修复客户端</b> <br> https://android.glbproxy.tk<br>
+Dolphin 4.0.0 for <b>Android最新版本(独立收费，5节点，无限流量)，1.解决了偶尔掉线问题 2.优化了对DNS污染来临时，自助修复客户端</b> <br> https://android.glbproxy.tk<br>
 
 All the URLs are dynamic.
