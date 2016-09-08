@@ -13,5 +13,5 @@ For China <b>(SYN VPN for IOS,Android,Windows,MAC 一次付费多客户端使用
 
 Dolphin 4.0.1 for <b>Android最新版本(独立收费，5节点，无限流量)，1.解决了偶尔掉线问题 2.优化了对DNS污染来临时，自助修复客户端</b> <br> Android官网：https://android.glbproxy.tk<br><br>
 
-All Release：https://github.com/ayooay/glbproxy/releases
+All Release：https://github.com/ayooay/glbproxy/releases<br>
 All the URLs are dynamic.
