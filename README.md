@@ -1,7 +1,12 @@
-# Notice
+# 修复教程
 Hi Chrome Plugin Users,<br>
 <b>无法登录，无法切换节点查看：</b>http://v1.fixjob.site/fix/tor.htm</b>
 <br>
+# 最新消息
+Hi Chrome Users,<br>
+穿越和海豚畅游Chrome插件加入节点服务器防盗用IP验证系统，抑制滥用服务器，检测违规行为。请大家在使用过程中遵守所在国家相关法律，若被系统发现，您将被直接黑名单处理，希望给大家提供良好的工作和学习条件，也请大家珍惜资源！节点优化恢复中...<br>
+Message from Twitter:https://twitter.com/AyooBull/status/774095802964643842<br>
+
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
