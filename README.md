@@ -1,6 +1,6 @@
 # Notice
 Hi Chrome Plugin Users,<br>
-<b>无法登录，无法切换节点查看：</b>http://fix.check-version.top/fix/tor.htm</b>
+<b>无法登录，无法切换节点查看：</b>http://v1.fixjob.site/fix/tor.htm</b>
 <br>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
