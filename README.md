@@ -8,7 +8,7 @@ glbproxy插件代理服务器升级Level 2. 节点带V2的都是升级版本。<
 1.提升访问速度，黑科技您懂得。<br>
 2.增加二层协议防护，防止滥用，保护付费用户的利益。<br>
 3.模拟cdn服务器降低DNS污染的几率。<br>
-<b>备注：10天补偿将于9/11发放！</b><br>
+<b>备注：10天补偿将于9/12发放！</b><br>
 Message from Twitter:https://twitter.com/AyooBull<br>
 
 # global proxy
