@@ -4,11 +4,9 @@ Hi Chrome Plugin Users,<br>
 <br>
 # 最新消息
 Hi Chrome Users,<br>
-glbproxy插件代理服务器升级Level 2. 节点带V2的都是升级版本。<br>
-1.提升访问速度，黑科技您懂得。<br>
-2.增加二层协议防护，防止滥用，保护付费用户的利益。<br>
-3.模拟cdn服务器降低DNS污染的几率。<br>
-<b>备注：10天补偿将于9/12发放！</b><br>
+海豚畅游，穿越运营已经对9月1号-9月11号，间断性受到的干扰和不稳定的用户进行了每个VIP账号10天的补偿，<br>
+我们已经直接加到了这些账号上，重新登陆可看到。还有问题的用户请发邮件给客服！ <br>
+备注：服务器节点V2类型验证比较严格，如果通不过请使用某国-OP-V1。<br>
 Message from Twitter:https://twitter.com/AyooBull<br>
 
 # global proxy
