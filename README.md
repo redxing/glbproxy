@@ -14,7 +14,7 @@ Message from Twitter:https://twitter.com/AyooBull<br>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.2.5, Ecross V2.3.4, Android V4.0.1, Youss.vip Vpn for Mobile.
+Latest version Dolphin V2.6.6, Ecross V2.6.0, Android V4.0.1, Youss.vip Vpn for Mobile.
 
 For Worldwide: http://glbproxy.tk/?r=1 <br>
 For China <b>(插件下载)</b>: https://do1.glbproxy.tk<br>
