@@ -4,7 +4,7 @@ Hi Chrome Plugin Users,<br>
 <br>
 # 最新消息
 Hi Chrome Users,<br>
-版本更新：海豚畅游更新2.6.6，穿越更新2.4.0，适配最新V2防盗服务器。<br>
+版本更新：海豚畅游更新2.6.7，穿越更新2.4.1，适配最新V2防盗服务器。<br>
 请穿越和海豚用户最快升级到最新版本！新版服务器V2特性如下：<br>
 1.更快，更安全，720P-1080P。<br>
 2.服务器防滥用，保护付费用户权益。<br>
@@ -14,7 +14,7 @@ Message from Twitter:https://twitter.com/AyooBull<br>
 # global proxy
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V2.6.6, Ecross V2.4.0, Android V4.0.1, Youss.vip Vpn for Mobile.
+Latest version Dolphin V2.6.7, Ecross V2.4.1, Android V4.0.1, Youss.vip Vpn for Mobile.
 
 For Worldwide: http://glbproxy.tk/?r=1 <br>
 For China <b>(插件下载)</b>: https://do1.glbproxy.tk<br>
