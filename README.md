@@ -1,6 +1,6 @@
 # 修复教程
 Hi Chrome Plugin Users,<br>
-<b>插件无法登录，无法切换节点查看：</b>http://v1.fixjob.site/fix/tor.htm</b>
+<b>插件无法登录，无法切换节点查看：</b>http://fix.check-version.top/fix/tor.htm</b>
 <br>
 # 最新消息
 Hi Chrome Users,<br>
