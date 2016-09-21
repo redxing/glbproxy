@@ -9,6 +9,7 @@ Hi Chrome Users,<br>
 1.更快，更安全，720P-1080P。<br>
 2.服务器防滥用，保护付费用户权益。<br>
 3.插件新版本更适配服务器，轻松验证。<br>
+4.<b>年或企业年用户可以申请独立修复地址，可以防DNS污染。申请方式，发送邮件到：1517771066@qq.com 标题：“申请独立修复地址”，内容：“您的登陆账号”，每晚生成一次，请等待回复！</b><br>
 Message from Twitter:https://twitter.com/AyooBull<br>
 
 # global proxy
